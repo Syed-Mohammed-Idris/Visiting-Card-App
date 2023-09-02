@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prog1</string>
+    <string name="idris_group_of_industries">IDRIS GROUP OF INDUSTRIES</string>
+    <string name="name">Name</string>
+    <string name="job_title">Job Title</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="email_website_fax_details">Email, website, Fax details</string>
+    <string name="todo">TODO</string>
+</resources>
